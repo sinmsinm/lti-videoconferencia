@@ -56,15 +56,30 @@ const sessionController = {
   obrirSessio: async (req, res) => {
     try {
       const { sessionId } = req.params;
+      const { contextId, toolConsumerId } = req.session.launchParams;
+      const usuariId = req.session.userInfo.userId;
+
+      logger.info(`Intent d'obrir sessió: sessionId=${sessionId}, contextId=${contextId}, toolConsumerId=${toolConsumerId}, usuariId=${usuariId}`);
+
       const sessio = await sessionService.obtenirSessio(sessionId);
+
       if (!sessio) {
+        logger.warn(`Sessió no trobada: ${sessionId}`);
         return res.status(404).json({ error: 'Sessió no trobada' });
       }
-      // Aquí redirigiries a la "sala de videoconferència"
-      res.json({ message: 'Obrint sala de videoconferencia', sessio });
+
+      if (sessio.contextId !== contextId || sessio.toolConsumerId !== toolConsumerId) {
+        logger.warn(`Intent d'accedir a una sessió d'un altre context: ${sessionId}`);
+        return res.status(403).json({ error: 'No tens permís per accedir a aquesta sessió' });
+      }
+
+      // Aquí podríem afegir lògica addicional, com registrar que l'usuari s'ha unit a la sessió
+
+      // Redirigim a la vista de la sala de videoconferència
+      res.redirect(`/sala/${sessionId}`);
     } catch (error) {
-      logger.error('Error obrint sessió:', error);
-      res.status(500).json({ error: 'Error obrint la sessió' });
+      logger.error('Error en obrir la sessió:', error);
+      res.status(500).json({ error: 'Error en obrir la sessió' });
     }
   }
 };
