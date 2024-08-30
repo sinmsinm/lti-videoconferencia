@@ -1,0 +1,244 @@
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 11:38:31"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 11:38:35"}
+{"level":"error","message":"Invalid Signature","service":"videoconferencia-lti","timestamp":"2024-08-30 11:38:35"}
+{"level":"error","message":"Invalid Signature","service":"videoconferencia-lti","timestamp":"2024-08-30 11:38:35"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 11:39:50"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 11:39:50"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","role":"instructor","service":"videoconferencia-lti","timestamp":"2024-08-30 11:39:50","userId":"2"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 12:47:07"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 12:47:15"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 12:47:15"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","role":"instructor","service":"videoconferencia-lti","timestamp":"2024-08-30 12:47:15","userId":"2"}
+{"level":"error","message":"Promesa rebutjada no gestionada: Operation `sessions.find()` buffering timed out after 10000ms","service":"videoconferencia-lti","stack":"MongooseError: Operation `sessions.find()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/Alex/projects/lti-videoconf/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)","timestamp":"2024-08-30 12:47:25"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 12:47:36"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 12:47:36"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","role":"instructor","service":"videoconferencia-lti","timestamp":"2024-08-30 12:47:36","userId":"2"}
+{"level":"error","message":"Promesa rebutjada no gestionada: Operation `sessions.find()` buffering timed out after 10000ms","service":"videoconferencia-lti","stack":"MongooseError: Operation `sessions.find()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/Alex/projects/lti-videoconf/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)","timestamp":"2024-08-30 12:47:46"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 12:56:54"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 12:56:58"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 12:56:58"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","role":"instructor","service":"videoconferencia-lti","timestamp":"2024-08-30 12:56:58","userId":"2"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 12:57:08"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 12:57:08"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","role":"instructor","service":"videoconferencia-lti","timestamp":"2024-08-30 12:57:08","userId":"2"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 12:57:16"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 12:57:16"}
+{"isInstructor":false,"level":"info","message":"Usuari autenticat via LTI:","role":"learner","service":"videoconferencia-lti","timestamp":"2024-08-30 12:57:16","userId":"2"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 12:57:29"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 12:57:29"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","role":"instructor","service":"videoconferencia-lti","timestamp":"2024-08-30 12:57:29","userId":"2"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 12:57:31"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 12:57:31"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","role":"instructor","service":"videoconferencia-lti","timestamp":"2024-08-30 12:57:31","userId":"2"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:02:01"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 13:02:05"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:02:05"}
+{"level":"error","message":"Error en la validació LTI: provider is not defined","service":"videoconferencia-lti","stack":"ReferenceError: provider is not defined\n    at handleLTIRequest (/Users/Alex/projects/lti-videoconf/src/lti/ltiController.js:21:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-08-30 13:02:05"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 13:02:07"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:02:07"}
+{"level":"error","message":"Error en la validació LTI: provider is not defined","service":"videoconferencia-lti","stack":"ReferenceError: provider is not defined\n    at handleLTIRequest (/Users/Alex/projects/lti-videoconf/src/lti/ltiController.js:21:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-08-30 13:02:07"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 13:02:49"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:02:49"}
+{"level":"error","message":"Error en la validació LTI: provider is not defined","service":"videoconferencia-lti","stack":"ReferenceError: provider is not defined\n    at handleLTIRequest (/Users/Alex/projects/lti-videoconf/src/lti/ltiController.js:21:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-08-30 13:02:49"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:04:09"}
+{"level":"info","message":"Rebuda sol·licitud LTI","service":"videoconferencia-lti","timestamp":"2024-08-30 13:04:13"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:04:13"}
+{"level":"error","message":"Error en la validació LTI: provider is not defined","service":"videoconferencia-lti","stack":"ReferenceError: provider is not defined\n    at handleLTIRequest (/Users/Alex/projects/lti-videoconf/src/lti/ltiController.js:22:22)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-08-30 13:04:13"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:08:31"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:08:34"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:08:34","userId":"2"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:08:46"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:08:46","userId":"2"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:10:41"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:10:41","userId":"2"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:05"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:09"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:09","userId":"2"}
+{"level":"info","message":"Buscant sessions per contextId: undefined:2","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:09"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:09"}
+{"level":"info","message":"Nova sessió creada: {\"id\":\"4894229b-6628-4c1f-b6e3-f2e331157c7a\",\"nom\":\"de\",\"contextId\":\"localhost:2\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T11:13:11.919Z\",\"activa\":true}","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:11"}
+{"level":"info","message":"Total de sessions: 1","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:11"}
+{"level":"info","message":"Buscant sessions per contextId: undefined:2","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:11"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:11"}
+{"level":"info","message":"Nova sessió creada: {\"id\":\"388d859b-6de3-4787-a35d-160e59e5e173\",\"nom\":\"qwe\",\"contextId\":\"localhost:2\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T11:13:14.335Z\",\"activa\":true}","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:14"}
+{"level":"info","message":"Total de sessions: 2","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:14"}
+{"level":"info","message":"Buscant sessions per contextId: undefined:2","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:14"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 13:13:14"}
+{"address":"::","code":"EADDRINUSE","errno":-48,"level":"error","message":"Error no capturat: listen EADDRINUSE: address already in use :::3000","port":3000,"service":"videoconferencia-lti","stack":"Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (node:net:1817:16)\n    at listenInCluster (node:net:1865:12)\n    at Server.listen (node:net:1953:7)\n    at Function.listen (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/application.js:635:24)\n    at Object.<anonymous> (/Users/Alex/projects/lti-videoconf/index.js:74:5)\n    at Module._compile (node:internal/modules/cjs/loader:1256:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)\n    at Module.load (node:internal/modules/cjs/loader:1119:32)\n    at Module._load (node:internal/modules/cjs/loader:960:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)","syscall":"listen","timestamp":"2024-08-30 13:22:01"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:22:14"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:22:21"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:22:21","userId":"2"}
+{"level":"info","message":"Buscant sessions per contextId: undefined:2","service":"videoconferencia-lti","timestamp":"2024-08-30 13:22:21"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 13:22:21"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:22:43"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:22:43","userId":"2"}
+{"level":"info","message":"Buscant sessions per contextId: undefined:2","service":"videoconferencia-lti","timestamp":"2024-08-30 13:22:43"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 13:22:43"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:23:53"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:23:56"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:23:56","userId":"2"}
+{"level":"info","message":"Buscant sessions per contextId: undefined:2","service":"videoconferencia-lti","timestamp":"2024-08-30 13:23:56"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 13:23:56"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:27:56"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:27:58"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:27:58","userId":"2"}
+{"level":"info","message":"Buscant sessions per contextId: undefined:2","service":"videoconferencia-lti","timestamp":"2024-08-30 13:27:58"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 13:27:58"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:33:15"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:33:18"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:33:18","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 13:33:18"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 13:33:18"}
+{"level":"error","message":"Error obtenint sessions: sessionController is not defined","service":"videoconferencia-lti","stack":"ReferenceError: sessionController is not defined\n    at /Users/Alex/projects/lti-videoconf/index.js:43:22\n    at Layer.handle [as handle_request] (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/Alex/projects/lti-videoconf/src/compartit/middleware/authMiddleware.js:6:5)\n    at Layer.handle [as handle_request] (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/index.js:346:12)","timestamp":"2024-08-30 13:33:18"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:34:19"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:34:23"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:34:23","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 13:34:23"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 13:34:23"}
+{"level":"error","message":"Error obtenint sessions: sessionService.obtenirSessions is not a function","service":"videoconferencia-lti","stack":"TypeError: sessionService.obtenirSessions is not a function\n    at /Users/Alex/projects/lti-videoconf/index.js:43:43\n    at Layer.handle [as handle_request] (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/Alex/projects/lti-videoconf/src/compartit/middleware/authMiddleware.js:6:5)\n    at Layer.handle [as handle_request] (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/index.js:346:12)","timestamp":"2024-08-30 13:34:23"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:43:00"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:43:05"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:43:05","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 13:43:05"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 13:43:05"}
+{"level":"error","message":"Error obtenint sessions: sessions is not defined","service":"videoconferencia-lti","stack":"ReferenceError: sessions is not defined\n    at /Users/Alex/projects/lti-videoconf/index.js:55:62\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-08-30 13:43:05"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:51:36"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:51:38"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:51:38","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 13:51:38"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 13:51:38"}
+{"level":"error","message":"Error obtenint sessions: sessionController is not defined","service":"videoconferencia-lti","stack":"ReferenceError: sessionController is not defined\n    at /Users/Alex/projects/lti-videoconf/index.js:44:22\n    at Layer.handle [as handle_request] (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/route.js:149:13)\n    at authMiddleware (/Users/Alex/projects/lti-videoconf/src/compartit/middleware/authMiddleware.js:6:5)\n    at Layer.handle [as handle_request] (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/index.js:346:12)","timestamp":"2024-08-30 13:51:38"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:52:07"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:52:09"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:52:09","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 13:52:09"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 13:52:09"}
+{"level":"error","message":"Error obtenint sessions: sessions is not defined","service":"videoconferencia-lti","stack":"ReferenceError: sessions is not defined\n    at Object.renderSessionList (/Users/Alex/projects/lti-videoconf/src/sessionsVideoconferencia/sessionView.js:15:15)\n    at /Users/Alex/projects/lti-videoconf/index.js:55:44\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-08-30 13:52:09"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 13:54:39"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 13:54:41"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 13:54:41","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 13:54:41"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 13:54:41"}
+{"level":"info","message":"Buscant sessions per contextId: undefined:2","service":"videoconferencia-lti","timestamp":"2024-08-30 13:54:41"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 13:54:41"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 16:55:08"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 16:55:08","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 16:55:08"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 16:55:08"}
+{"level":"info","message":"Buscant sessions per contextId: undefined:2","service":"videoconferencia-lti","timestamp":"2024-08-30 16:55:08"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 16:55:08"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 16:58:54"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 16:58:55"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 16:58:55","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 16:58:55"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 16:58:55"}
+{"level":"error","message":"Error obtenint sessions: Operation `sessions.find()` buffering timed out after 10000ms","service":"videoconferencia-lti","stack":"MongooseError: Operation `sessions.find()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/Alex/projects/lti-videoconf/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)","timestamp":"2024-08-30 16:59:05"}
+{"level":"error","message":"Error obtenint sessions: res.status is not a function","service":"videoconferencia-lti","stack":"TypeError: res.status is not a function\n    at Object.obtenirSessions (/Users/Alex/projects/lti-videoconf/src/sessionsVideoconferencia/sessionController.js:30:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.renderSessionList (/Users/Alex/projects/lti-videoconf/src/sessionsVideoconferencia/sessionView.js:12:16)\n    at async /Users/Alex/projects/lti-videoconf/index.js:54:26","timestamp":"2024-08-30 16:59:05"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:08"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:15"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:15","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:15"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:15"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=undefined","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:15"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:15"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:43"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:43"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:43","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:43"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:43"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=undefined","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:43"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:43"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:45"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:45","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:45"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:45"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=undefined","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:45"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:00:45"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 17:01:11"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 17:01:11","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:01:11"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:01:11"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=undefined","service":"videoconferencia-lti","timestamp":"2024-08-30 17:01:11"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:01:11"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 17:03:38"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 17:03:40"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 17:03:40","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:03:40"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:03:40"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:03:40"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:03:40"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:02"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:03"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:03","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:03"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:03"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:03"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:03"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:13"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:15"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:15","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:15"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:15"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:15"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:06:15"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 17:07:03"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 17:07:04"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 17:07:04","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:07:04"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:07:04"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:07:04"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:07:04"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:32"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:34"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:34","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:34"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:34"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:34"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:34"}
+{"level":"info","message":"Nova sessió creada: {\"id\":\"98cf485e-7b72-46c6-b25a-82458040182c\",\"nom\":\"demo 1\",\"contextId\":\"2\",\"toolConsumerId\":\"2\",\"dataCreacio\":\"2024-08-30T15:10:39.637Z\",\"activa\":true}","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:39"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:39"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:39"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:39"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:39"}
+{"level":"info","message":"Nova sessió creada: {\"id\":\"a53a5c4b-cd53-4ac9-89f2-2ca1872b1ef0\",\"nom\":\"demo 2\",\"contextId\":\"2\",\"toolConsumerId\":\"2\",\"dataCreacio\":\"2024-08-30T15:10:42.753Z\",\"activa\":true}","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:42"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:42"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:42"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:42"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:10:42"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 17:14:34"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 17:14:35"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 17:14:35","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:14:35"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:14:35"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:14:35"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:14:35"}
+{"level":"error","message":"Error creant sessió: creatorId is not defined","service":"videoconferencia-lti","stack":"ReferenceError: creatorId is not defined\n    at crearSessio (/Users/Alex/projects/lti-videoconf/src/sessionsVideoconferencia/sessionController.js:15:102)\n    at Layer.handle [as handle_request] (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/index.js:280:10)\n    at authMiddleware (/Users/Alex/projects/lti-videoconf/src/compartit/middleware/authMiddleware.js:6:5)\n    at Layer.handle [as handle_request] (/Users/Alex/projects/lti-videoconf/node_modules/express/lib/router/layer.js:95:5)","timestamp":"2024-08-30 17:14:36"}
+{"level":"info","message":"Servidor escoltant al port 3000","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:10"}
+{"ip":"::1","level":"warn","message":"Intent d'accés no autoritzat","method":"POST","path":"/","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:13"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:15"}
+{"isInstructor":true,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:15","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:15"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:15"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:16"}
+{"level":"info","message":"Sessions trobades: []","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:16"}
+{"level":"info","message":"Nova sessió creada: {\"id\":\"1f56099c-853e-4491-b2e5-609125560007\",\"nom\":\"sss\",\"contextId\":\"2\",\"toolConsumerId\":\"localhost\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T15:15:17.816Z\",\"activa\":true}","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:17"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:17"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:17"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:17"}
+{"level":"info","message":"Sessions trobades: [{\"id\":\"1f56099c-853e-4491-b2e5-609125560007\",\"nom\":\"sss\",\"contextId\":\"2\",\"toolConsumerId\":\"localhost\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T15:15:17.816Z\",\"activa\":true}]","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:17"}
+{"level":"info","message":"Nova sessió creada: {\"id\":\"124c5da7-fce0-42f8-908a-37ce8fe1a4bc\",\"nom\":\"qqq\",\"contextId\":\"2\",\"toolConsumerId\":\"localhost\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T15:15:21.352Z\",\"activa\":true}","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:21"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:21"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:21"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:21"}
+{"level":"info","message":"Sessions trobades: [{\"id\":\"1f56099c-853e-4491-b2e5-609125560007\",\"nom\":\"sss\",\"contextId\":\"2\",\"toolConsumerId\":\"localhost\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T15:15:17.816Z\",\"activa\":true},{\"id\":\"124c5da7-fce0-42f8-908a-37ce8fe1a4bc\",\"nom\":\"qqq\",\"contextId\":\"2\",\"toolConsumerId\":\"localhost\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T15:15:21.352Z\",\"activa\":true}]","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:21"}
+{"level":"info","message":"Nova sessió creada: {\"id\":\"478f9ff0-4391-4ed4-8f71-c1063a5eac1a\",\"nom\":\"www\",\"contextId\":\"2\",\"toolConsumerId\":\"localhost\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T15:15:23.399Z\",\"activa\":true}","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:23"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:23"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:23"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:23"}
+{"level":"info","message":"Sessions trobades: [{\"id\":\"1f56099c-853e-4491-b2e5-609125560007\",\"nom\":\"sss\",\"contextId\":\"2\",\"toolConsumerId\":\"localhost\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T15:15:17.816Z\",\"activa\":true},{\"id\":\"124c5da7-fce0-42f8-908a-37ce8fe1a4bc\",\"nom\":\"qqq\",\"contextId\":\"2\",\"toolConsumerId\":\"localhost\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T15:15:21.352Z\",\"activa\":true},{\"id\":\"478f9ff0-4391-4ed4-8f71-c1063a5eac1a\",\"nom\":\"www\",\"contextId\":\"2\",\"toolConsumerId\":\"localhost\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T15:15:23.399Z\",\"activa\":true}]","service":"videoconferencia-lti","timestamp":"2024-08-30 17:15:23"}
+{"level":"info","message":"Sol·licitud LTI vàlida","service":"videoconferencia-lti","timestamp":"2024-08-30 17:19:09"}
+{"isInstructor":false,"level":"info","message":"Usuari autenticat via LTI:","service":"videoconferencia-lti","timestamp":"2024-08-30 17:19:09","userId":"2"}
+{"level":"info","message":"Accedint a la ruta principal","service":"videoconferencia-lti","timestamp":"2024-08-30 17:19:09"}
+{"level":"info","message":"Paràmetres de llançament: contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:19:09"}
+{"level":"info","message":"Buscant sessions per contextId=2, toolConsumerId=localhost","service":"videoconferencia-lti","timestamp":"2024-08-30 17:19:09"}
+{"level":"info","message":"Sessions trobades: [{\"id\":\"1f56099c-853e-4491-b2e5-609125560007\",\"nom\":\"sss\",\"contextId\":\"2\",\"toolConsumerId\":\"localhost\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T15:15:17.816Z\",\"activa\":true},{\"id\":\"124c5da7-fce0-42f8-908a-37ce8fe1a4bc\",\"nom\":\"qqq\",\"contextId\":\"2\",\"toolConsumerId\":\"localhost\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T15:15:21.352Z\",\"activa\":true},{\"id\":\"478f9ff0-4391-4ed4-8f71-c1063a5eac1a\",\"nom\":\"www\",\"contextId\":\"2\",\"toolConsumerId\":\"localhost\",\"creadorId\":\"2\",\"dataCreacio\":\"2024-08-30T15:15:23.399Z\",\"activa\":true}]","service":"videoconferencia-lti","timestamp":"2024-08-30 17:19:09"}
